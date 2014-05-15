@@ -14,7 +14,7 @@ public class UserHelpTest {
   String rules;
     
       
-    public static double getLosingPercentage(double wins, double losses) {
+    public static double getLosingPercentage(int wins, int losses) {
        
         //check for valid values
         if (wins < 0)  {
