@@ -16,8 +16,8 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int wins = 8;
-        int losses = 1;
+        int wins = 23;
+        int losses = 75;
         UserHelpTest.getLosingPercentage(wins, losses);
     }
     
